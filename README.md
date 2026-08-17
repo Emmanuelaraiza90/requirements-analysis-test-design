@@ -45,3 +45,18 @@ Puedes consultar la documentación técnica completa y las tablas de análisis d
 *QA Automation Engineer | Industrial Engineer*  
 * [LinkedIn](https://linkedin.com/in/emmanuel-araiza-engineer)
 * [GitHub](https://github.com/Emmanuelaraiza90)
+
+---
+
+## 📸 Artefactos Visuales & Análisis Técnico
+
+**Visualización y Descomposición de Requisitos:**
+![Mapa Mental de Requisitos](01-mind-map.png)
+*Mapa mental para la identificación de objetos de prueba y descomposición de reglas de negocio.*
+
+![Diagrama de Flujo de Procesos](02-flowchart.png)
+*Diagrama de flujo para el mapeo de decisiones, zonas grises y lógica funcional del sistema.*
+
+**Técnicas Formales de Cobertura (EP & BVA):**
+![Clases de Equivalencia y Valores Límite](03-equivalence-bva.png)
+*Partición de Clases de Equivalencia y Análisis de Valores Límite (BVA) para la eliminación de ejecuciones redundantes.*
